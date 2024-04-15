@@ -19,7 +19,7 @@ export default function HeroImages() {
           alt="dim Bulb"
           className="transition-all duration-1000 w-full h-full"
           style={{
-            animation: "glow 3s infinite alternate, grow 2s forwards",
+            animation: "glow 1s infinite alternate, grow 2s forwards",
           }}
         />
       </div>
@@ -29,7 +29,7 @@ export default function HeroImages() {
           alt="glowing Bulb"
           className="transition-all duration-1000 w-full h-full"
           style={{
-            animation: "glow 3s infinite alternate-reverse, grow 2s forwards",
+            animation: "glow 1s infinite alternate-reverse, grow 2s forwards",
           }}
         />
       </div>
